@@ -1,2 +1,0 @@
-# STORVEN
-Inventory Management System
